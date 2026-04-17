@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 533" fill="none">
+  <rect width="400" height="533" fill="#F5F0EB"/>
+  <rect x="160" y="200" width="80" height="133" rx="2" fill="none" stroke="#C5A059" stroke-width="1.5" opacity="0.3"/>
+  <text x="200" y="275" text-anchor="middle" font-family="Georgia, serif" font-size="64" fill="#C5A059" opacity="0.4">N</text>
+  <text x="200" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#2D2D2D" opacity="0.2" letter-spacing="4">NO IMAGE</text>
+</svg>

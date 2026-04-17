@@ -1,0 +1,10 @@
+node_modules
+.env
+.env.local
+supabase
+*.mjs
+diagnose_failures.mjs
+seed_users.mjs
+DEV_LOG.md
+MPESA_FLOW.md
+.gemini
